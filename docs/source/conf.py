@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 project = 'lightstreamer-lib-python-adapter'
 copyright = '2016, Lightstreamer Srl'
 author = 'Lightstreamer Srl'
-release = '1.3.1'
+release = '1.3.2-dev.3'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
